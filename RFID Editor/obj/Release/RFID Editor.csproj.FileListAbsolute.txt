@@ -1,0 +1,16 @@
+D:\Projects\CSProject\RFID Editor\RFID Editor\bin\Release\RFID Editor.exe.config
+D:\Projects\CSProject\RFID Editor\RFID Editor\bin\Release\RFID Editor.exe
+D:\Projects\CSProject\RFID Editor\RFID Editor\bin\Release\RFID Editor.pdb
+D:\Projects\CSProject\RFID Editor\RFID Editor\bin\Release\Newtonsoft.Json.dll
+D:\Projects\CSProject\RFID Editor\RFID Editor\bin\Release\Newtonsoft.Json.xml
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\Editor.Key.resources
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\Editor.Main.resources
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\Editor.Modify.resources
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\Editor.Properties.Resources.resources
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\Editor.Start.resources
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\RFID Editor.csproj.GenerateResource.cache
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\RFID Editor.csproj.CopyComplete
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\RFID Editor.exe
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\RFID Editor.pdb
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\RFID Editor.csprojAssemblyReference.cache
+D:\Projects\CSProject\RFID Editor\RFID Editor\obj\Release\RFID Editor.csproj.CoreCompileInputs.cache
